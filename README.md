@@ -1,6 +1,7 @@
 # NFL Cap Allocation & Winning
 
 An interactive R Shiny app exploring how NFL teams allocate their salary cap across position groups — and whether that allocation correlates with regular season success or Super Bowl appearances.
+
 https://artie.shinyapps.io/salary-cap/
 
 ## Overview
